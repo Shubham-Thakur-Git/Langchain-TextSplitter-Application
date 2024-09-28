@@ -1,0 +1,4 @@
+The Langchain framework is designed to help developers build applications powered by language models.
+It provides a variety of tools, including text splitters, to efficiently handle large documents.
+With TextSplitter, you can break down documents into manageable chunks, ensuring that no token limits are exceeded.
+This allows the language model to process large text in smaller, sequential parts, maintaining context and continuity.
